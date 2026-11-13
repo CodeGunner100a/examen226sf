@@ -1,4 +1,4 @@
-
+//cadenas
 function Ejercicio3(cad: String): String;
 var
   i, j: Integer;
