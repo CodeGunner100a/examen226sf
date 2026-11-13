@@ -1,1 +1,1 @@
-// me pasas foto
+// me pasas foto por whatsapp
